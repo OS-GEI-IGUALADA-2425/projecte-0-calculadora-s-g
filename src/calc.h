@@ -1,6 +1,5 @@
 #ifndef CALC_H
 #define CALC_H
-
-float resta(double a, double b);
-
+float divisio(double a, double b);
+float resta(int a, int b);
 #endif // CALC_H
