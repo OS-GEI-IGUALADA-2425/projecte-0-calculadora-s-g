@@ -12,7 +12,7 @@ En aquest projecte hem completat codi per fer funcional una calculadora que util
 # Funcionament
 
 Per compilar-ho, s'ha de tindre configurat el ```gcc```. Si és així, des d'una terminal en entorn Linux, s'utilitza un simple ```make```, i aleshores s'introdueix ```./bin/calc```, seguit d'un - i l'ús que se li vulgui donar, amb els següents casos:
-- -h per a ajuda i saber les opcions disponibles. \n
+- -h per a ajuda i saber les opcions disponibles.
 - -s per a les sumes.
 - -r per a les restes.
 - -m per a les multiplicacions.
