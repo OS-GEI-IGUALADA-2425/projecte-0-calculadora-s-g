@@ -55,7 +55,7 @@ int main(int argc, char *argv[]) {
                     num1 = atof(optarg);
                     num2 = atof(argv[optind]);
                     //printf("Resultat de la resta: %.2f\n", resta(num1, num2));
-                    printf("Not implemented yet!\n");
+                    printf("Resultat de la resta: %.2f\n", resta(num1, num2));
                 } else {
                     printf("Falten arguments per a la resta.\n");
                     return 1;
@@ -81,8 +81,8 @@ int main(int argc, char *argv[]) {
                         printf("No es pot dividir per zero!\n");
                         return 1;
                     }
-                    //printf("Resultat de la divisió: %.2f\n", divisio(num1, num2));
-                    printf("Not implemented yet!\n");
+                    printf("Resultat de la divisió: %.2f\n", divisio(num1, num2));
+                
                 } else {
                     printf("Falten arguments per a la divisió.\n");
                     return 1;
