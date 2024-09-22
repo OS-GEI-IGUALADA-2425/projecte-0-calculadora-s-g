@@ -5,3 +5,7 @@ float suma(int a, int b)
 {
     return a + b;
 }
+float multiplicacio(int a, int b)
+{
+    return a * b;
+}

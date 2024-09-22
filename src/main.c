@@ -66,8 +66,7 @@ int main(int argc, char *argv[]) {
                 if (argc >= optind + 1) {
                     num1 = atof(optarg);
                     num2 = atof(argv[optind]);
-                    //printf("Resultat de la multiplicació: %.2f\n", multiplicacio(num1, num2));
-                    printf("Not implemented yet!\n");
+                    printf("Resultat de la multiplicació: %.2f\n", multiplicacio(num1, num2));
                 } else {
                     printf("Falten arguments per a la multiplicació.\n");
                     return 1;
