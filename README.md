@@ -2,6 +2,8 @@
 # projecte0
 
 En aquest projecte hem creat, a partir d'un codi, una calculadora que permeti sumar, restar, multiplicar, dividir, fer potencies i arrels quadrades, entre els dos membres del equip.
-![por favor](image.png)
+
 Asier Juarez
 Adria Minguez
+
+![Captura de pantalla del terminal amb la calculadora funcionant.](<let me love you.png>)
